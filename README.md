@@ -12,9 +12,13 @@
 </p>
 
 ## About me
-- First-year BCA student specializing in AI & ML.
+👋 Hi, I’m Sonu 🎓 BCA (AIML) Student | Shobhit University<br> 
+💻 Learning Python, AI/ML & Full-Stack Basics <br>
+🔥 Building projects, improving daily & leveling up my coding skills<br>
+🚀 Goal: Become a top developer<br>
+<!--- First-year BCA student specializing in AI & ML.
 - Interested in Python, C, data preprocessing, and digital logic.
-- Create and edit videos; love blending tech with storytelling.
+- Create and edit videos; love blending tech with storytelling.-->
 
 ## What I’m learning now
 - Python fundamentals for AI workflows.
