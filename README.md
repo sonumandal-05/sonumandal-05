@@ -23,7 +23,7 @@
 
 ## Tech stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,git,github,linux,vscode,ae,pr,ps,excel&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,ae,pr,ps,excel&perline=9" />
 </p>
 
 ## GitHub stats
@@ -35,9 +35,9 @@
   <img height="200" src="https://streak-stats.demolab.com?user=sonumandal-05&theme=tokyonight" />
 </p>
 
-## Featured mini-projects
+<!--## Featured mini-projects
 - [bca-notes-ai](https://github.com/sonumandal-05/bca-notes-ai) – Structured notes + small Python snippets for AI basics.
-- [data-cleanup-lab](https://github.com/sonumandal-05/data-cleanup-lab) – CSV → cleaned dataset with simple visual checks.
+- [data-cleanup-lab](https://github.com/sonumandal-05/data-cleanup-lab) – CSV → cleaned dataset with simple visual checks.-->
 
 ## Contribution snake
 <picture>
