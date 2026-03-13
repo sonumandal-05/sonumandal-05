@@ -12,18 +12,21 @@
 </p>
 
 ## About me
-👋 Hi, I’m Sonu 🎓 BCA (AIML) Student | Shobhit University<br> 
-💻 Learning Python, AI/ML & Full-Stack Basics <br>
-🔥 Building projects, improving daily & leveling up my coding skills<br>
-🚀 Goal: Become a top developer<br>
+👨‍💻Hi, I'm **Sonu Mandal**  
+🎓 BCA (AIML) Student  
+💡 Passionate about programming and technology  
+🚀 Working towards becoming an AI/ML Developer.<br>
 <!--- First-year BCA student specializing in AI & ML.
 - Interested in Python, C, data preprocessing, and digital logic.
 - Create and edit videos; love blending tech with storytelling.-->
 
 ## What I’m learning now
-- Python fundamentals for AI workflows.
-- Clean data → simple models → meaningful visuals.
-- Git/GitHub habits and CLI confidence.
+- 🐍 Python Programming  
+- 💻 C Programming & Data Structures  
+- 🌐 HTML, CSS & JavaScript  
+- 🔧 Git & GitHub  
+- 🤖 Artificial Intelligence  
+- 📊 Machine Learning Basics
 
 ## Tech stack
 <p>
